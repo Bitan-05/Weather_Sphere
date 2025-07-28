@@ -1,2 +1,2 @@
 # Weather_Sphere
-Real-Time Weather Dashboard for India
+This responsive web application delivers real-time weather information across cities in India using the OpenWeatherMap API. Built with HTML, CSS, and JavaScript, the app allows users to search for any Indian city and instantly receive accurate temperature, humidity, wind speed, and conditions. Designed with a modern, user-centric UI, the project reflects both technical functionality and aesthetic finesse—perfect for showcasing on a portfolio.
